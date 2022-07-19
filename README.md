@@ -4,9 +4,6 @@
 - [Template for writing VS Code extensions for Python language tools](https://github.com/microsoft/vscode-python-tools-extension-template)
 - [Python extension for VS Code](https://github.com/microsoft/vscode-python)
 
-![Karthik's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknadig&langs_count=8&layout=compact)
-
-
 <!--
 **karthiknadig/karthiknadig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
