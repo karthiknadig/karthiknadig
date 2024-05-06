@@ -1,6 +1,6 @@
 ### 🔭 I’m currently working on
 
-- [Python Langeuage Server Protocol library](https://microsoft/lsprotocol)
+- [Python Language Server Protocol library](https://github.com/microsoft/lsprotocol)
 - [Template for writing VS Code extensions for Python language tools](https://github.com/microsoft/vscode-python-tools-extension-template)
 - [Python extension for VS Code](https://github.com/microsoft/vscode-python)
 
